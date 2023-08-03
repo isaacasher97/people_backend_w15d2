@@ -1,0 +1,4 @@
+#ignore .env files for security reasons
+.env
+
+/node_modules
